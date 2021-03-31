@@ -1,7 +1,8 @@
 # Heuberger
 
 Some aplications for personal use.
-**Use at your own risk, I can't assume any responsibility.**
+
+**Use at your own risk, I do not assume any responsibility.**
 
 ## Projects
 
