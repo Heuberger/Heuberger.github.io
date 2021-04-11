@@ -10,7 +10,7 @@ Certificates used to validate applications of this  [organization](https://heube
   - [install-cert.cmd](https://heuberger.github.io/keys/install-cert.cmd) - install certificates for Windows
 
 - execute `install-cert.cmd` as administrator - right-click and select `Run as Administrator`
-- oprional: use `certmgr.msc` to check that both certificates are installed:
+- oprional/alternative: use `certmgr.msc` to check that both certificates are installed or to install the certificates:
   - `CFH Root CA` listed under `Trusted Root Certificates`
   - `CFH Signature` listed under `Trusted Publishers`
 

@@ -24,7 +24,7 @@ Unix shell scripts to generate a Root CA and a Signer certificate. The scripts e
 2. `genca.sh` create Root CA key pair
 3. `gensi.sh` create Signer key pair, and signs with Root CA
 4. `signjar.sh` **sample** jar signer file
-5. `../docs/keys/inst-cert.cmd` install Root CA and Signer certificates
+5. `../docs/keys/install-cert.cmd` install Root CA and Signer certificates
 
 
 

@@ -1,6 +1,6 @@
 # Heuberger
 
-Some aplications for personal use.
+Some applications for personal use.
 
 **Use at your own risk, I do not assume any responsibility.**
 
@@ -8,6 +8,6 @@ Some aplications for personal use.
 
 * [AirDriveDownload](AirDriveDownload) - AirDrive logger downloader.
 
-* [Test](Test) - Repository to test GitHub
+* [Puzzle](Puzzle) - Jigsaw Puzzle Game.
 
-* [Heuberger](https://github.com/Heuberger/) GitHub
+* [Heuberger](https://github.com/Heuberger/) Main GitHub Page.
