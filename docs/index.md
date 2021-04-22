@@ -6,9 +6,9 @@ Some applications for personal use.
 
 ## Projects
 
-* [Puzzle](Puzzle) - Jigsaw Puzzle Game.
+* [Puzzle](Puzzle) - Jigsaw Puzzle Game. ([Project](https://github.com/Heuberger/Puzzle))
 
-* [Heuberger](https://github.com/Heuberger/) Main GitHub Page.
+* [Heuberger](https://github.com/Heuberger/) - Main GitHub Page.
 
 
 
